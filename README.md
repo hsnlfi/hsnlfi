@@ -1,4 +1,4 @@
-# kalo ada yang nyari bilang aja lagi boker
+# kalo ada yang nyari bilang aja lagi boker..
 <!--
 ## Hi there 👋
 
