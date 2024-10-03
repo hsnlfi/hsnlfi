@@ -3,14 +3,12 @@
 ## 🚀 GitHub Stats
 
 ![view](https://visitcount.itsvg.in/api?id=hsnlfi&icon=5&color=10)
-
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsnlfi&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!--
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=hsnlfi&limit=1&theme=radical&combine_all_yearly_contributions=true)
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsnlfi&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+-->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hsnlfi&theme=radical&hide_border=false)
 
 ## 🌐 Socials
