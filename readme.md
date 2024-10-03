@@ -11,7 +11,7 @@
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=hsnlfi&limit=1&theme=radical&combine_all_yearly_contributions=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsnlfi&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hsnlfi&theme=radical&hide_border=false)
--->
+
 
 ## 🌐 Socials
 
@@ -103,7 +103,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) 
 [![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white)](https://mui.com/) 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
+-->
 ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hsnlfi) 
