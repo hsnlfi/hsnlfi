@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile
-
+<!--
 ## 🚀 GitHub Stats
-
+-->
 ![view](https://visitcount.itsvg.in/api?id=hsnlfi&icon=5&color=10)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsnlfi&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
