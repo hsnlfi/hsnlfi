@@ -11,7 +11,7 @@
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=hsnlfi&limit=1&theme=radical&combine_all_yearly_contributions=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsnlfi&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hsnlfi&theme=radical&hide_border=false)
-
+-->
 
 ## 🌐 Socials
 
@@ -29,7 +29,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hsnlfi) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hsnlfi) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hsnlfi) 
-
+<!--
 ## 💻 Tech Stack
 
 ### Languages & Markup
